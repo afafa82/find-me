@@ -1,0 +1,29 @@
+.navButtons {
+    font-size: 1em !important;
+}
+
+th {
+    font-weight: 500;
+}
+
+.quill {
+    background-color: #fff;
+}
+
+.ql-editor {
+    min-height: 200px;
+}
+
+.quickLinkCard:hover {
+    background-color: rgb(235, 238, 247);
+}
+
+.quickLinkCard a {
+    text-decoration: none;
+    color: black;
+}
+
+.cardDarkTheme {
+    background-color: #242240;
+    color: #fff;
+}
